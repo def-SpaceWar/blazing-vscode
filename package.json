@@ -1,0 +1,21 @@
+{
+  "name": "blazing-vscode",
+  "displayName": "Blazing (Theme)",
+  "description": "A port of blazing.nvim to vscode.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Blazing",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Blazing-color-theme.json"
+      }
+    ]
+  }
+}
