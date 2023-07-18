@@ -3,6 +3,7 @@
   "displayName": "Blazing (Theme)",
   "description": "A port of blazing.nvim to vscode.",
   "version": "0.0.1",
+  "repository": "https://github.com/def-SpaceWar/blazing-vscode",
   "engines": {
     "vscode": "^1.80.0"
   },
