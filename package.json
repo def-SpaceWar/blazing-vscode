@@ -2,7 +2,7 @@
   "name": "blazing-vscode",
   "displayName": "Blazing (Theme)",
   "description": "A port of blazing.nvim to vscode.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "AryanAhire",
   "author": {
     "name": "Aryan Ahire"

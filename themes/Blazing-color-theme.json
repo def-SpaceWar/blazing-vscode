@@ -129,7 +129,8 @@
 			"name": "Variables",
 			"scope": [
 				"variable",
-				"string constant.other.placeholder"
+				"string constant.other.placeholder",
+				"entity.name.variable"
 			],
 			"settings": {
 				"foreground": "#EFFFFF"
